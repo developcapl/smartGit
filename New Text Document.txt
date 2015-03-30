@@ -1,1 +1,1 @@
-This is the first commit. Hey buddy 2nd commit
+This is the first commit. Just you hv C's commit
